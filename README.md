@@ -1,4 +1,4 @@
-# Deploying a WordPress Application on AWS Using Terraform
+# Deploy WordPress Application on AWS Using Terraform
 
  
 
