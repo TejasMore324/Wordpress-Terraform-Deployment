@@ -279,9 +279,9 @@ resource "aws_security_group" "rds_sg" {
 }
 ```
 
-#### Step 3:
+### Step 3:  Create RDS Instance
 
- Create RDS Instance
+ 
 Provision an RDS instance with MySQL as the database engine.
 
 **`rds.tf`**
